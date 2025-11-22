@@ -124,9 +124,5 @@ I am passionate about solving real-world problems, optimizing performance, and c
   <a href="https://wa.me/9199816666474" target="_blank">
     <img height="40" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://telegram.me/" target="_blank">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
-  </a>
 </p>
 

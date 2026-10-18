@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated **Full Stack MERN Developer** with over **2+ years of hands-on experience**, specializing in building scalable web applications, crafting secure backend systems, and designing responsive, modern user interfaces.
+I am a dedicated **Full Stack MERN Developer** with over **3+ years of hands-on experience**, specializing in building scalable web applications, crafting secure backend systems, and designing responsive, modern user interfaces.
 
 I have worked on real-time logistics automation, custom CMS dashboards, API integrations, and product-based web applications delivering high performance and clean architecture.
 

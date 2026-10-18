@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jignesh Goyal</h1>
-<h3 align="center">Full Stack Developer (MERN / Next.js / Node.js) | 2+ Years Experience</h3>
+<h3 align="center">Full Stack Developer (MERN / Next.js / Node.js) | 3+ Years Experience</h3>
 
 <p align="center">
 🚀 Building Scalable Web Applications, SaaS Products & Efficient Backend Architectures  
